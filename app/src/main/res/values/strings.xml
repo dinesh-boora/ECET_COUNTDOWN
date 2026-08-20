@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECET Countdown</string>
+
+    <!-- Main screen text -->
+    <string name="exam_title">ECET 2027</string>
+    <string name="motivational_text">Every second counts. Stay focused, stay consistent.</string>
+
+    <!-- Countdown unit labels -->
+    <string name="label_days">DAYS</string>
+    <string name="label_hours">HOURS</string>
+    <string name="label_minutes">MINUTES</string>
+    <string name="label_seconds">SECONDS</string>
+    <!-- Settings screen -->
+    <string name="settings_title">Exam Settings</string>
+    <string name="label_exam_date">EXAM DATE</string>
+    <string name="label_exam_time">EXAM TIME</string>
+    <string name="btn_pick_date">Pick Date</string>
+    <string name="btn_pick_time">Pick Time</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_reset">Reset to Default</string>
+    <string name="btn_settings_icon">⚙</string>
+    <string name="label_daily_reminder">Daily Reminder</string>
+    <string name="label_reminder_time">REMINDER TIME</string>
+
+    <!-- Placeholder shown before the first calculation runs -->
+    <string name="placeholder_value">00</string>
+</resources>

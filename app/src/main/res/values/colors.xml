@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base dark theme colors -->
+    <color name="background_dark">#0D1117</color>
+    <color name="surface_card">#161B22</color>
+    <color name="surface_card_border">#2A3038</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#F5F7FA</color>
+    <color name="text_secondary">#8B949E</color>
+
+    <!-- Accent color (used for countdown numbers, highlights) -->
+    <color name="accent_primary">#4FD1C5</color>
+    <color name="accent_primary_dim">#2C7A72</color>
+</resources>
